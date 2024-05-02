@@ -57,6 +57,10 @@ main {
     line-height: 22px;
 }
 
+.weather-app-details strong {
+    color:#f65282;
+}
+
 .weather-app-data {
     display: flex;
     justify-content: space-between;
